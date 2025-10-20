@@ -26,7 +26,7 @@ Language: JavaScript (can easily extend to TypeScript)
 
 🏗️ Installation & Setup
 # 1️⃣ Clone the repo
-git clone https://github.com/tomervivek/nextjs-shopping-cart.git
+git clone [https://github.com/tomervivek/Shopping-Cart.git](https://github.com/tomervivek/Shopping-Cart.git)
 
 # 2️⃣ Install dependencies
 cd nextjs-shopping-cart
