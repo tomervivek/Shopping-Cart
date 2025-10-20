@@ -29,7 +29,7 @@ Language: JavaScript (can easily extend to TypeScript)
 git clone [https://github.com/tomervivek/Shopping-Cart.git](https://github.com/tomervivek/Shopping-Cart.git)
 
 # 2️⃣ Install dependencies
-cd nextjs-shopping-cart
+cd Shopping-Cart
 npm install
 
 # 3️⃣ Run the development server

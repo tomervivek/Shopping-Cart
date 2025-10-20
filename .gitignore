@@ -1,0 +1,69 @@
+# Node modules and build output
+node_modules/
+dist/
+build/
+out/
+.vite/
+.cache/
+parcel-cache/
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tooling
+.eslintcache
+.svelte-kit/
+.next/
+.pnp.*
+```// filepath: c:\Users\vivek\Downloads\Shopping-Cart\.gitignore
+# Node modules and build output
+node_modules/
+dist/
+build/
+out/
+.vite/
+.cache/
+parcel-cache/
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tooling
+.eslintcache
+.svelte-kit/
+.next/
+.pnp.*
